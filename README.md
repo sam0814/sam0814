@@ -17,5 +17,9 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </div>
+<hr>
+
+### 📧 songsaemiye@naver.com
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam0814)](https://github.com/anuraghazra/github-readme-stats)
