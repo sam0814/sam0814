@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/json-%23000000.svg?&style=for-the-badge&logo=json&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/MyBatis-6f4c5b?style=flat-square&logo=Java&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/JSP-FF3300?style=flat-square&logo=Java&logoColor=white"/></a>
